@@ -162,3 +162,43 @@ If you have limited time, focus on these **10 high-frequency problems**:
 ---
 
 *Last updated: February 2026*
+
+
+Priority wise questions
+
+### P1 (10 questions)
+01_counter_app.md
+04_star_rating.md
+11_autocomplete.md 
+12_todo_app.md
+13_infinite_scroll.md
+15_multi_step_form.md
+18_countdown_timer.md
+20_otp_input.md
+21_data_table.md
+22_file_explorer.md
+28_undo_redo.md
+
+### P2 (10 questions)
+#6 Modal/Dialog
+#7 Toast/Notification System
+#14 Image Carousel/Slider
+#16 Debounced Search with API
+#19 Drag & Drop Sortable List
+#3 Accordion/FAQ
+#5 Tabs Component
+#8 Tooltip
+#9 Progress Bar
+#17 Pagination Component
+
+### P3 (10 questions)
+#2 Toggle Switch
+#10 Traffic Light
+#23 Kanban Board
+#25 Chat Interface
+#27 Multi-Select Tag Input
+
+
+
+
+### P4 (10 system design questions)
